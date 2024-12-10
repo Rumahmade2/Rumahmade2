@@ -143,8 +143,8 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rumahmade2&theme=radical&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rumahmade2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!--## 🏆 GitHub Trophies-->
+<!--![](https://github-profile-trophy.vercel.app/?username=Rumahmade2&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
 <!--START_SECTION:waka-->
 
 ```text
