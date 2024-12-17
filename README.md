@@ -13,10 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=480&height=48&lines=Hi👋+I'm+Rumahmade..;Berani+Bermimpi+Lebih+Besar;Langkah+Kecil+Menuju+Perubahan+Besar;Kesuksesan+Adalah+Perjalanan+Bukan+Tujuan;Tetap+Semangat+Walau+Berproses;Imajinasi+Mengalahkan+Pengetahuan!" />
-    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=800&height=60&lines=Hi👋+I'm+Rumahmade..;Berani+Bermimpi+Lebih+Besar;Langkah+Kecil+Menuju+Perubahan+Besar;Kesuksesan+Adalah+Perjalanan+Bukan+Tujuan;Tetap+Semangat+Walau+Berproses;Imajinasi+Mengalahkan+Pengetahuan!" />
+</p>
+<p align="center">
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+<br/>
+</p>
+
 <a href="https://www.instagram.com/mwidhiyana/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
@@ -40,9 +43,14 @@ Here are some ideas to get you started:
 
 </div>
 <p></p>
-<p align="justify">
-Never hesitate to move forward, because every small step in your journey is the foundation to achieve great things. The world of programming is full of challenges, but also endless opportunities. Keep learning, growing, and becoming a better person every day. You have started an amazing journey, and every effort you make will bring greater results. Keep the spirit, Made Widhiyana, a bright future awaits you! <a href="https:https://www.instagram.com/mwidhiyana/">Rumhamade</a> that shares everything I learn about programming.
-
+<p align="justify" style="font-family: 'Arial', sans-serif; font-size: 18px; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; text-align: justify;">
+    Never hesitate to move forward, because every small step in your journey is the foundation to achieve great things. 
+    The world of programming is full of challenges, but also endless opportunities. Keep learning, growing, and becoming a better person every day. 
+    You have started an amazing journey, and every effort you make will bring greater results. Keep the spirit, Made Widhiyana, a bright future awaits you! 
+    <a href="https://www.instagram.com/mwidhiyana/" style="color: #E22FE4; font-weight: bold; text-decoration: none; border-bottom: 2px solid #E22FE4;">
+        Rumhamade
+    </a> 
+    that shares everything I learn about programming.
 </p>
 
 ## My favorite tools and technologies ⚙️
@@ -170,8 +178,6 @@ Never hesitate to move forward, because every small step in your journey is the 
  </tr>
 </table>
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-<br/>
 
 ## Github stats 📊
 
